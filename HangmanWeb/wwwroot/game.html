@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Hangman</title>
+</head>
+<body>
+    <h1>Welcome to Hangman!</h1>
+
+    <div>
+        <label for="guessLetter">Guess a letter.</label>
+        <input id="guessLetter" maxlength="1" />
+        <button id="sendButton" type="submit">Guess</button>
+    </div>
+    <br /><br />
+    <div>
+        <textarea id="commsLog" readonly></textarea>
+    </div>
+    <footer>
+        <div>
+            <input type="hidden" id="connectionUrl" />
+        </div>
+    </footer>
+
+    <script>
+        var connectionUrl = document.getElementById("connectionUrl");
+        var guessLetter = document.getElementById("guessLetter");
+        var sendButton = document.getElementById("sendButton");
+        var commsLog = document.getElementById("commsLog");
+
+        var socket;
+
+        var scheme = document.location.protocol === "https:" ? "wss" : "ws";
+        var port = document.location.port ? (":" + document.location.port) : "";
+
+        connectionUrl.value = scheme + "://" + document.location.hostname + port + "/ws";
+
+        socket = new WebSocket(connectionUrl.value);
+
+        sendButton.onclick = function () {
+            console.log(socket.readyState);
+            if (!socket || socket.readyState !== WebSocket.OPEN) {
+                alert("socket not connected");
+            }
+            var data = guessLetter.value;
+            socket.send(data);
+        };
+
+        socket.onmessage = function (event) {
+            commsLog.innerHTML = event.data;
+            if (commsLog.innerHTML == "YOU WIN") {
+                window.location.replace("https://localhost:7249/Scores");
+            }
+        };
+
+    </script>
+</body>
+</html>

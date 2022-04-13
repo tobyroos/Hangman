@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h3 class="display-4">Welcome to Hangman</h3>
+    <br />
+    <form method="post">
+        <label for="username">Username: </label>
+        <input id="username" name="username"/>
+        <label for="password">Password: </label>
+        <input id="password" name="password"/>
+        <Button type="submit">Login</Button>
+    </form>
+    <br />
+    <a href="signUp">Don't have an account? Click here to sign up!</a>
+</div>

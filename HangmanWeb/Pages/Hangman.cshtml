@@ -1,0 +1,54 @@
+﻿@page
+@model HangmanModel
+@{
+    ViewData["Title"] = "Game Page";
+}
+
+
+
+<div class="text-center">
+    <h3 class="display-4">Welcome to our Hangman Game!</h3>
+    <br />
+    <form method="post">
+        <input type="hidden" id="connectionUrl" />
+        <label for="guess">What is your guess? </label>
+        <input id="guess" name="guess" maxlength=1/>
+        <Button id="guessBtn" type="submit">Guess</Button>
+        <br />
+        <textarea id="previousguesses" name="previousguesses" rows="4" cols="18" readonly></textarea>
+    </form>
+    <br />
+    <textarea id="commsLog" readonly></textarea>
+
+    <script>
+        var connectionUrl = document.getElementById("connectionUrl");
+        var guess = document.getElementById("guess");
+        var guessBtn = document.getElementById("guessBtn");
+        var commsLog = document.getElementById("commsLog");
+        var socket;
+
+        var scheme = document.location.protocol === "https:" ? "wss" : "ws";
+        var port = document.location.port ? (":" + document.location.port) : "";
+
+        connectionUrl.value = scheme + "://" + document.location.hostname + port + "/ws";
+
+        console.log(connectionUrl.value);
+
+        socket = new WebSocket(connectionUrl.value);
+
+        guessBtn.onclick = function () {
+            //console.log("5");
+            if (!socket || socket.readyState !== WebSocket.OPEN) {
+                alert("socket not connected");
+            }
+            var data = guess.value;
+            socket.send(data);
+        };
+
+        socket.onmessage = function (event) {
+            //console.log("6");
+            console.log(event.data[1])
+            commsLog.innerHTML = event.data;
+        };
+    </script>
+</div>

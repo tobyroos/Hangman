@@ -1,0 +1,23 @@
+﻿@page
+@model ScoresModel
+@{
+    ViewData["Title"] = "Scores page";
+    string user = SessionVar.Username;
+    int score = SessionVar.Score;
+}
+
+<div class="text-center">
+    <br />
+    <div>
+        <h1>@user | @score</h1>
+        @Html.Raw(ScoresModel.Createhtml())
+    </div>
+    <br />
+    <a href="game.html">Play Again</a>
+    <Button id="logout">Logout</Button>
+    <script>
+        logout.onclick = function () {
+            window.location.replace("https://localhost:7249/Index");
+        };
+    </script>
+</div>

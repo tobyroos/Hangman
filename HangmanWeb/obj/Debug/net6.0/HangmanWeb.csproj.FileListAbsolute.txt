@@ -1,0 +1,164 @@
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.staticwebassets.runtime.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.exe
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.deps.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.runtimeconfig.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\ref\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.AssemblyInfoInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.AssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.CoreCompileInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.RazorAssemblyInfo.cache
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.RazorAssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\scopedcss\bundle\HangmanWeb.styles.css
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\scopedcss\projectbundle\HangmanWeb.bundle.scp.css
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\ref\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.genruntimeconfig.cache
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.CopyComplete
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\codyb\Documents\Computer Science\SE2\hangman\hangmanGame\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.staticwebassets.runtime.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.exe
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.deps.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.runtimeconfig.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\ref\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\HangmanWeb.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.AssemblyReference.cache
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.AssemblyInfoInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.AssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.CoreCompileInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.RazorAssemblyInfo.cache
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.RazorAssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\scopedcss\bundle\HangmanWeb.styles.css
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\scopedcss\projectbundle\HangmanWeb.bundle.scp.css
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.CopyComplete
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\ref\HangmanWeb.dll
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\HangmanWeb\HangmanWeb\obj\Debug\net6.0\HangmanWeb.genruntimeconfig.cache
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\HangmanWeb.staticwebassets.runtime.json
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\HangmanWeb.exe
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\HangmanWeb.deps.json
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\HangmanWeb.runtimeconfig.json
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\HangmanWeb.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\ref\HangmanWeb.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\HangmanWeb.pdb
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tobyr\Hangman\HangmanWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.AssemblyReference.cache
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.AssemblyInfoInputs.cache
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.AssemblyInfo.cs
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.CoreCompileInputs.cache
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.RazorAssemblyInfo.cache
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.RazorAssemblyInfo.cs
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\scopedcss\bundle\HangmanWeb.styles.css
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\scopedcss\projectbundle\HangmanWeb.bundle.scp.css
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.csproj.CopyComplete
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.dll
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\ref\HangmanWeb.dll
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.pdb
+C:\Users\tobyr\Hangman\HangmanWeb\obj\Debug\net6.0\HangmanWeb.genruntimeconfig.cache
